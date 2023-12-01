@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "description": "Solution for Advent of Code 2023",
   "scripts": {
-    "start": "npx ts-node 01_A.ts"
+    "start": "npx ts-node 01/01.ts"
   },
   "author": "Nicolas Fondacci",
   "license": "ISC",
   "dependencies": {
-    "fs": "^0.0.1-security",
     "ts-node": "^10.9.1",
     "typescript": "^5.3.2"
   },

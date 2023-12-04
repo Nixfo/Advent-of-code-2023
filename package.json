@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Solution for Advent of Code 2023",
   "scripts": {
-    "start": "npx ts-node 02/02.ts"
+    "start": "npx ts-node 04/04.ts"
   },
   "author": "Nicolas Fondacci",
   "license": "ISC",
